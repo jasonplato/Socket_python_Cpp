@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/socket_client.dir/main.cpp.o CMakeFiles/socket_client.dir/trafficFlowSocket.cpp.o CMakeFiles/socket_client.dir/PLANNER/Function.cpp.o CMakeFiles/socket_client.dir/PLANNER/H.cpp.o  -o socket_client -ldl -lpthread 
